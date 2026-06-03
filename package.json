@@ -1,0 +1,9 @@
+{
+  "name": "sirenssweets-static-site",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/validate-site.cjs",
+    "preview": "python3 -m http.server 4173 --bind 127.0.0.1"
+  }
+}

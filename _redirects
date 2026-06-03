@@ -1,0 +1,3 @@
+/pricing /pricing-1/ 301
+/cart-page /pricing-1/ 302
+/product-page/* /pricing-1/ 302
